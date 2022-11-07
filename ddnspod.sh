@@ -2,7 +2,7 @@
 #
 
 # Import ardnspod functions
-. /your_real_path/ardnspod
+. /root/ardnspod
 
 # Combine your token ID and token together as follows
 arToken="357932,9c45e0581da5ba4dff9edc471337bd52"

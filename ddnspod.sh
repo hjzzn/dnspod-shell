@@ -5,7 +5,7 @@
 . /your_real_path/ardnspod
 
 # Combine your token ID and token together as follows
-arToken="12345,7676f344eaeaea9074c123451234512d"
+arToken="357932,9c45e0581da5ba4dff9edc471337bd52"
 
 # Web endpoint to be used for querying the public IPv6 address
 # Set this to override the default url provided by ardnspod

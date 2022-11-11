@@ -23,3 +23,6 @@ arDdnsCheck "test.org" "subdomain"
 
 # IPv6:
 arDdnsCheck "test.org" "subdomain6" 6
+
+
+#test by use git command

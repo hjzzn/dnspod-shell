@@ -13,6 +13,8 @@
 # Usage: please refer to `ddnspod.sh`
 #
 #############################################################
+echo "this called sub "
+exit
 
 export arToken
 

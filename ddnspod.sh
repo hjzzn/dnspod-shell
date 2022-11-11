@@ -22,4 +22,4 @@ arToken="357932,9c45e0581da5ba4dff9edc471337bd52"
 arDdnsCheck "test.org" "subdomain"
 
 # IPv6:
-arDdnsCheck "test.org" "subdomain6" 6
+arDdnsCheck "gongniu.site" "openwrt" 6

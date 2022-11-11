@@ -19,7 +19,7 @@ arToken="357932,9c45e0581da5ba4dff9edc471337bd52"
 # you can have multiple arDdnsCheck blocks
 
 # IPv4:
-arDdnsCheck "test.org" "subdomain"
+#arDdnsCheck "test.org" "subdomain"
 
 # IPv6:
 arDdnsCheck "gongniu.site" "openwrt" 6
